@@ -1,0 +1,22 @@
+{
+  "name": "asteroids-bullet",
+  "version": "0.0.0",
+  "description": "The bullet in the Asteroids world",
+  "main": "lib/bullet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ceres-pallas/asteroids-bullet.git"
+  },
+  "keywords": [
+    "asteroids",
+    "bullet"
+  ],
+  "author": "Daan van Berkel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ceres-pallas/asteroids-bullet/issues"
+  }
+}
