@@ -1,6 +1,6 @@
 {
   "name": "asteroids-bullet",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "The bullet in the Asteroids world",
   "main": "lib/bullet.js",
   "scripts": {
@@ -24,6 +24,6 @@
     "mocha": "~1.17.0"
   },
   "dependencies": {
-    "asteroids-asteroid": "~0.3.0"
+    "asteroids-asteroid": "~0.4.0"
   }
 }
